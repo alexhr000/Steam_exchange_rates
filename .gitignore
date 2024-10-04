@@ -1,0 +1,4 @@
+.env
+debug/
+bundle_database.db-journal
+test.py
