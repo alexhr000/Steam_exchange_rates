@@ -1,0 +1,11 @@
+typing_extensions==4.12.2
+fastapi==0.112.2
+python-dotenv==1.0.1
+selenium==4.17.2
+fake-useragent==1.4.0
+nest-asyncio==1.6.0
+aiogram==2.23.1   
+urllib3==2.1.0
+beautifulsoup4==4.12.3
+proxy_seller_user_api==1.0.4
+schedule==1.2.2

@@ -1,4 +1,9 @@
 .env
 debug/
+venv/
+__pycache__/
 bundle_database.db-journal
 test.py
+account.json
+legacy.py
+proxies.json
